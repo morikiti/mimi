@@ -3,5 +3,5 @@ package mimi
 import "fmt"
 
 func Hello() {
-	fmt.Println("Mimi")
+	fmt.Println("モジュールから日っぱてきたぽよ")
 }
